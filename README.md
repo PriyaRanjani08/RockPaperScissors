@@ -15,10 +15,10 @@ Features:
 Project Structure:
 
 RockPaperScissors/
-│
-├── game_logic.py     # Contains class and game rules
-├── main.py           # Runs the game
-└── README.md         # Project documentation
+
+* game_logic.py       # Contains class and game rules
+* main.py             # Runs the game
+* README.md           # Project documentation
 
 How to Run:
 
